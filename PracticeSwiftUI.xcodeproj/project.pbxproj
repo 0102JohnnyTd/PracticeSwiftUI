@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C4035B02C17DAEA007FC321 /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4035AF2C17DAEA007FC321 /* NavigationBarView.swift */; };
+		1C4035B22C17DD8F007FC321 /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4035B12C17DD8F007FC321 /* LogoView.swift */; };
 		1CBE48AC2C17D91B00B8C301 /* PracticeSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CBE48AB2C17D91B00B8C301 /* PracticeSwiftUIApp.swift */; };
 		1CBE48AE2C17D91B00B8C301 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CBE48AD2C17D91B00B8C301 /* ContentView.swift */; };
 		1CBE48B02C17D91C00B8C301 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CBE48AF2C17D91C00B8C301 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C4035AF2C17DAEA007FC321 /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
+		1C4035B12C17DD8F007FC321 /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
 		1CBE48A82C17D91B00B8C301 /* PracticeSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CBE48AB2C17D91B00B8C301 /* PracticeSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeSwiftUIApp.swift; sourceTree = "<group>"; };
 		1CBE48AD2C17D91B00B8C301 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				1CBE48AB2C17D91B00B8C301 /* PracticeSwiftUIApp.swift */,
 				1CBE48AD2C17D91B00B8C301 /* ContentView.swift */,
+				1C4035AF2C17DAEA007FC321 /* NavigationBarView.swift */,
+				1C4035B12C17DD8F007FC321 /* LogoView.swift */,
 				1CBE48AF2C17D91C00B8C301 /* Assets.xcassets */,
 				1CBE48B12C17D91C00B8C301 /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1CBE48AE2C17D91B00B8C301 /* ContentView.swift in Sources */,
+				1C4035B22C17DD8F007FC321 /* LogoView.swift in Sources */,
 				1CBE48AC2C17D91B00B8C301 /* PracticeSwiftUIApp.swift in Sources */,
+				1C4035B02C17DAEA007FC321 /* NavigationBarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
